@@ -1,0 +1,9 @@
+# Dev-only tooling -- test/showcase scripts, never part of the deployed app
+scripts/
+
+*.txt
+
+.venv
+__pycache__/
+*.db
+.claude/
